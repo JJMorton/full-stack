@@ -6,6 +6,7 @@ authors = ["JJMorton <jjmorton1636@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.12"
+fastapi = "^0.92.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
