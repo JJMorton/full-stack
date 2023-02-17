@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "Full Stack"
+version = "0.0.0"
+description = "Freddy's Full Stack"
+authors = ["JJMorton <jjmorton1636@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
